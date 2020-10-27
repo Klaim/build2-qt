@@ -1,0 +1,7 @@
+project = useqt
+
+using version
+using config
+using test
+using install
+using dist

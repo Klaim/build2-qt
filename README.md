@@ -1,0 +1,3 @@
+# useqt
+
+C++ executable
