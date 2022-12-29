@@ -1,5 +1,5 @@
 libs =
-import libs += Qt5Gui%lib{gui}
+import libs += libQt6Widgets%lib{Qt6Widgets}
 
 exe{useqt}: {hxx ixx txx cxx}{**} $libs testscript
 
